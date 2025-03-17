@@ -14,15 +14,16 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #61406F;
+	color: white;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #DED0FF;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #FFFFD9;
 }
 
 /* Styles for lists in the document */
@@ -55,3 +56,22 @@ body {
 	height: 25px;
 	width: 25px;
 }
+
+/* this is a custom class */
+.oswald-font {
+  font-family: "Oswald", sans-serif;
+  font-style: normal;
+}
+
+/* this is a custom class */
+.language-bar {
+	background-color: antiquewhite;
+}
+
+/* this is a custom class */
+.language-border {
+	border-color: black;
+	border-width: 2px;
+	border-style: dotted;
+}
+
