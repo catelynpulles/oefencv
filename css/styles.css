@@ -49,3 +49,9 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+/* this is a custom class */
+.instagram-icon {
+	height: 25px;
+	width: 25px;
+}
