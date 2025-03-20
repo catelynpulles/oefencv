@@ -37,7 +37,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #0D0D0D;
 }
 
 .biography-details li, .skill-list li {
@@ -65,7 +65,7 @@ body {
 
 /* this is a custom class */
 .language-bar {
-	background-color: #D99CA7;
+	background-color: #F2D5DB;
 }
 
 /* this is a custom class */
